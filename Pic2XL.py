@@ -40,7 +40,11 @@ def main():
     except:
         wb.save('image.xlsx')                               #Saves workbook into .xlsx format using name 'image'
 
-    print("***Worksheet saving as " + argv[2] + ".xlsx ***")
+    try:
+        print("***Worksheet saving as " + argv[2] + ".xlsx ***")
+    except:
+        print("***Worksheet saving as image.xlsx ***")
+
     print("***Save successful***")
 
 

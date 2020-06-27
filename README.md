@@ -21,9 +21,9 @@ PS C:\Pic-2-XL> .\Pic2XL.py sampleImg.jpg sampleXLSheet
 
 **Screenshots:**
 
-Inline-style: 
-![alt text](https://github.com/PaulJoshi/Pic-2-XL/SS/SS-Excel_Vs._Photo.png "Excel Vs. Photo")
 
+![Excel Vs. Photo](https://github.com/PaulJoshi/Pic-2-XL/blob/master/Screenshots/SS-Excel_Vs._Photo.png "Excel Vs. Photo")
 
-Inline-style: 
-![alt text](https://github.com/PaulJoshi/Pic-2-XL/SS/SS-Excel_Zoomed.png "Excel Vs. Photo")
+***
+
+![Excel Vs. Photo](https://github.com/PaulJoshi/Pic-2-XL/blob/master/Screenshots/SS-Excel_Zoomed.png "Excel Vs. Photo")
